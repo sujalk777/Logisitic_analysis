@@ -14,6 +14,7 @@ This project aims to predict the consignment pricing using classical machine lea
   - `Weight (Kilograms)`
   - `Line Item Quantity`
   - `Line Item Value`
+  - 
   - `Vendor INCO Term`
 
 ## 2. Model Building
