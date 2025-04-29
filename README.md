@@ -16,6 +16,7 @@ This project aims to predict the consignment pricing using classical machine lea
   - `Vendor INCO Term`
 
 ## 2. Model Building
+
 - Split the data into training and testing sets (80-20 split).
 - Use a **preprocessing pipeline** to:
   - Scale numerical features (`Weight (Kilograms)`, `Line Item Quantity`, `Line Item Value`) using `StandardScaler`.
