@@ -9,7 +9,6 @@ This project aims to predict the consignment pricing using classical machine lea
   - Drop rows with missing values in critical columns such as `Weight (Kilograms)`, `Freight Cost (USD)`, and `Shipment Mode`.
 - **Feature Selection**: Relevant features used for modeling include:
   - `Country`
-  - 
   - `Shipment Mode`
   - `Weight (Kilograms)`
   - `Line Item Quantity`
