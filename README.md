@@ -101,7 +101,4 @@ plt.show()
 
 ## 9. Contributions
 
-Feel free to contribute to this project by submitting issues or pull requests.
-
-##
 
