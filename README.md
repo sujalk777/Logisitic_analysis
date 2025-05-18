@@ -14,7 +14,7 @@ This project aims to predict the consignment pricing using classical machine lea
   - `Line Item Quantity`
   - `Line Item Value`
   - `Vendor INCO Term`
-  - 
+ - 
 ## 2. Model Building
 
 - Split the data into training and testing sets (80-20 split).
