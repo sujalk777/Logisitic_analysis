@@ -20,8 +20,7 @@ This project aims to predict the consignment pricing using classical machine lea
   - Scale numerical features (`Weight (Kilograms)`, `Line Item Quantity`, `Line Item Value`) using `StandardScaler`.
   - Encode categorical features (`Country`, `Shipment Mode`, `Vendor INCO Term`) using `OneHotEncoder`.
 
-### Machine Learning Models
-
+### Machine Learning Model
 - **Linear Regression**: A baseline model to establish initial performance.
 - **Random Forest Regressor**: An ensemble model to improve prediction accuracy.
 
