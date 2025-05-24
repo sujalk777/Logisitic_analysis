@@ -3,7 +3,8 @@
 This project aims to predict the consignment pricing using classical machine learning techniques. Below is a detailed workflow and execution guide.
 
 ## 1. Data Preparation
-- **Dataset**: The dataset contains multiple features, including shipment details, product characteristics, and costs.
+- **Dataset**: The dataset conta
+- ins multiple features, including shipment details, product characteristics, and costs.
 - **Cleaning**:
   - Convert numerical columns like `Weight (Kilograms)` and `Freight Cost (USD)` to proper data types.
   - Drop rows with missing values in critical columns such as `Weight (Kilograms)`, `Freight Cost (USD)`, and `Shipment Mode`.
