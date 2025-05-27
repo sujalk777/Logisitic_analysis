@@ -1,4 +1,3 @@
-
 # Workflow for Predicting Consignment Pricing
 
 This project aims to predict the consignment pricing using classical machine learning techniques. Below is a detailed workflow and execution guide.
